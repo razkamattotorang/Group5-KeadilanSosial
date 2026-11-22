@@ -1,0 +1,4 @@
+Font dalam folder ini berlisensi SIL Open Font License 1.1 (lihat OFL-SourceSans3.txt):
+- Source Sans 3, (c) Adobe
+- Lora, (c) The Lora Project Authors
+Keduanya di-subset ke huruf Latin untuk memperkecil ukuran file.
